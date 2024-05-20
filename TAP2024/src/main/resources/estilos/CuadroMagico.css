@@ -1,0 +1,13 @@
+
+
+#btnCalcular {
+    -fx-background-color: #2F4F4F; /* Fondo gris oscuro */
+    -fx-text-fill: white; /* Texto blanco */
+    -fx-background-radius: 15; /* Bordes redondos */
+    -fx-padding: 10 20; /* Relleno del botón */
+}
+
+/* Estilo para la escena */
+.root {
+    -fx-background-color: #333333; /* Fondo gris oscuro */
+}
